@@ -65,6 +65,8 @@ f_{XY}(x,y) =
     \end{cases}
 $$
 
+![foto1](foto1.jpeg)
+
 Fem servir que
 
 $$
@@ -83,6 +85,5 @@ $$
 P(X< \dfrac{1}{2},Y> \dfrac{1}{2}) = \int_{x=0}^{x=1} \int_{y=0}^{y=1-x} 2 \quad \mathcal{dxdy} = \dfrac{1}{4}
 $$
 
-![foto1](foto1.jpeg)
 ![foto2](foto2.jpeg)
 
