@@ -1,4 +1,6 @@
-# 2A Telecos UPC
+# Telecos UPC
+
+![upc](upc.png)
 
 ```Bash
 rm -rf ~/uni
